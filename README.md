@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Born to code,
-Forced to Syntax Error: missing semicolon on line 77
+Forced to `Syntax Error: missing semicolon on line 77`
 
 <!--
 **YellowLime77/YellowLime77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
