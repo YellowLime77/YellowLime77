@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Average singing synthesis fan, and .NET enjoyer. Otherwise, you can find me finding a new interesting thing to dabble about in
+Born to code,
+Forced to Syntax Error: missing semicolon on line 77
 
 <!--
 **YellowLime77/YellowLime77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
