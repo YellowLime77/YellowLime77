@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Born to code,
+Born to code,\
 Forced to `Syntax Error: missing semicolon on line 77`
 
 <!--
