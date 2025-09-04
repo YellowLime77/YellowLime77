@@ -3,6 +3,8 @@
 Born to code\
 Forced to `Syntax Error: missing semicolon on line 77`
 
+![Snake animation](https://github.com/YellowLime77/YellowLime77/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **YellowLime77/YellowLime77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
