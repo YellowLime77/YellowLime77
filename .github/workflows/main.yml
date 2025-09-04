@@ -6,6 +6,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
+    contents: write
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
